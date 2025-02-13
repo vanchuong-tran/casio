@@ -1,0 +1,30 @@
+GPIO FUNCTION of RP3:
+GPIO2, 3: I2C
+GPIO9, 10, 11: SPI_0
+GPIO14, 15: UART
+GPIO7, 8: SPI_CE
+
+GPIO FREE of RP3:
+GPIO4, 17, 27, 22, 5, 6, 13, 19, 26, 18, 23, 24, 25, 12, 16, 20, 21 : 17PIN
+
+Key matrix:
+ -C1: 18
+ -C2: 4
+ -C3: 17
+ -C4: 27
+ -C5: 22
+ 
+ -H1: 5
+ -H2: 6
+ -H3: 13
+ -H4: 19
+ -H5: 26
+
+LCD 1602:
+ -RS: 23
+ -E:  24
+ -D4: 12
+ -D5: 16
+ -D6: 20
+ -D7: 21
+
